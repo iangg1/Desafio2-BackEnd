@@ -1,0 +1,22 @@
+{
+    "product":[
+        {
+            "id":1,
+            "name":"Coca-Cola",
+            "size":"2,25lt",
+            "price":"5u$s"
+        },
+        {
+            "id":2,
+            "name":"Fanta",
+            "size":"1,5lt",
+            "price":"3u$s"
+        },
+        {
+            "id":3,
+            "name":"Sprite",
+            "size":"3lt",
+            "price":"7u$s"
+        }
+    ]
+}
